@@ -1,2 +1,2 @@
 # zkauth
- zkauth mobile
+ Aztec zkauth mobile
